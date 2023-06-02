@@ -1,0 +1,37 @@
+body {
+  background: rgb(242, 232, 232);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p1 {
+  font-size: 30px;
+}
+
+img {
+  /* display: block; */
+}
+
+container {
+  display: block;
+  text-align: center;
+}
+
+.inactive {
+  display: none;
+}
+
+
+
+button {
+  cursor: pointer;
+  width: 100px;
+  height: 60px;
+  font-size: 30;
+}
+
+#comment {
+  font-size: 40px;
+}
