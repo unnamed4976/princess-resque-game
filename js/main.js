@@ -12,7 +12,7 @@
    if(n >= 5) {
    hime.classList.remove('inactive');
    maou.classList.add('inactive');
-   cmt.textContent = "魔王を倒し、お姫様を救出しました。ゲームクリア！！"
+   cmt.textContent = "魔王を倒し、お姫様を救出しました。ゲームクリア！！その後、勇者はお姫様と結婚し、幸せに暮らしました。"
    }
    life.textContent = 5 - n;
 });

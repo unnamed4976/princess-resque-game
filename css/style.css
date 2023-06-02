@@ -23,6 +23,9 @@ container {
   display: none;
 }
 
+#life {
+  font-size: 40px;
+}
 
 
 button {
@@ -33,5 +36,9 @@ button {
 }
 
 #comment {
+  font-size: 40px;
+}
+
+#top {
   font-size: 40px;
 }
